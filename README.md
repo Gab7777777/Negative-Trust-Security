@@ -23,5 +23,7 @@ Information technology development challenges posterior to the (1) militar, (2) 
 7- Information, usage, permit request or terms of a service not necessarily explain the reach or exploitability used by the technology involved.
 
 8- Statistics although randomized, still reflect identity, culture, customes, and individuality expressed in a collective context.
+
 9- Therefore name and identity as counterpart of user id.
+
 10- Proper statewise documentation as counterpart of randomized, unprivileged corporative digital certification.
