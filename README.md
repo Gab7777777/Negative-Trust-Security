@@ -1,12 +1,8 @@
-# Negative-Trust-Security
-
-Manifest
-
 1- Everything suspected as a threat vector it is already exploited or has been studied by teams with the necessary resources.
 
 2- Mainstream systems carry manufacturer and developer's alternative access to it's resources.
 
-3- This access can be presented explicitly as control and monitoring or implicitly as errors, and either way intentional in their objectives. 
+3- This access can be presented explicitly as control and monitoring or implicitly as errors, and either way intentional in their objectives.
 
 4- Physicall and logical flaws although intentional can be unpredictable.
 
@@ -15,8 +11,6 @@ Manifest
 [IT DEVELOPMENT IN THE CONTEXT OF USER BEHAVIOUR ANALYTICS]
 
 Information technology development challenges posterior to the (1) militar, (2) industrial, (3) direct consumption (hard and software), (4) advertising and (5) network analysis; being the collective survey capitalization and user behaviour analysis as core sustainability paradigm:
-
-
 
 6- Decentralization as counterpart of integral exploitation of the user.
 
