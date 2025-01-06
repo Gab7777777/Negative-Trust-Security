@@ -9,7 +9,7 @@ Negative Trust
 
 4- Physical and logical flaws although intentional can be unpredictable.
 
-5- Therefore exploits being physical, logicall or hybrid, can be designed but also be the product of investigation and research.
+5- Therefore exploits being physical, logical or hybrid, can be designed but also be the product of investigation and research.
 
 [IT DEVELOPMENT IN THE CONTEXT OF USER BEHAVIOUR ANALYTICS]
 
