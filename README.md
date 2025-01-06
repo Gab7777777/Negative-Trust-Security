@@ -19,7 +19,7 @@ Information technology development challenges posterior to the (1) militar, (2) 
 
 7- Information, usage, permit request or terms of a service not necessarily explain the reach or exploitability used by the technology involved. Ambiguety as a deceit.
 
-8- Statistics although randomized, still reflect identity, culture, customes, and individuality expressed in a collective context.
+8- Statistics although randomized, still reflect identity, culture, customs, and individuality expressed in a collective context.
 
 9- Name and identity as counterpart of user id. As a mean to humanize the user, declining individual randomization for an identity of his own, and thus reserving in the capacity to decline any use of his way of living to be object of study.
 
